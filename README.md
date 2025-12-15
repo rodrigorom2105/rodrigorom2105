@@ -47,19 +47,19 @@
 
 ## 🌟 Featured Projects
 
-### [Project Name 1](https://github.com/yourusername/project1)
+### [Project Name 1](https://github.com/[username]/project1)
 **[Brief Description]**
 - [Key feature or technology used]
 - [Impact or result achieved]
 - **Tech Stack:** [Technologies used]
 
-### [Project Name 2](https://github.com/yourusername/project2)
+### [Project Name 2](https://github.com/[username]/project2)
 **[Brief Description]**
 - [Key feature or technology used]
 - [Impact or result achieved]
 - **Tech Stack:** [Technologies used]
 
-### [Project Name 3](https://github.com/yourusername/project3)
+### [Project Name 3](https://github.com/[username]/project3)
 **[Brief Description]**
 - [Key feature or technology used]
 - [Impact or result achieved]
@@ -69,11 +69,11 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[username]&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[username]&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[username]&theme=radical)
 
 </div>
 
@@ -99,10 +99,10 @@
 
 ## 📫 How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-profile])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[your.email@example.com])
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://[yourportfolio.com])
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[yourhandle])
 
 ## 💡 Currently
 
@@ -114,7 +114,7 @@
 
 ## 📈 Profile Views
 
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/[username]/count.svg)
 
 ---
 
