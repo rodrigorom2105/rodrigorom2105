@@ -1,3 +1,12 @@
+<!--
+**HOW TO USE THIS TEMPLATE:**
+1. Replace all placeholders in square brackets [like this] with your actual information
+2. Replace [username] with your GitHub username in URLs (for stats, profile counter, and project links)
+3. Remove or add sections as needed to match your experience
+4. Update badge colors and icons to match your preferred style
+5. Delete this comment block when you're done customizing
+-->
+
 # Hi, I'm [Your Name] 👋
 
 ## 🚀 About Me
