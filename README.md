@@ -74,18 +74,6 @@
 - [Impact or result achieved]
 - **Tech Stack:** [Technologies used]
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[username]&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[username]&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[username]&theme=radical)
-
-</div>
-
 ## 🎓 Education
 
 ### [Degree Name] in [Field of Study]
