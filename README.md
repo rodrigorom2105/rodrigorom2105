@@ -48,23 +48,11 @@ Computer Science College Student with 5 years of experience in Software Developm
 
 ## 🌟 Featured Projects
 
-### [Project Name 1](https://github.com/[username]/project1)
-**[Brief Description]**
-- [Key feature or technology used]
-- [Impact or result achieved]
-- **Tech Stack:** [Technologies used]
-
-### [Project Name 2](https://github.com/[username]/project2)
-**[Brief Description]**
-- [Key feature or technology used]
-- [Impact or result achieved]
-- **Tech Stack:** [Technologies used]
-
-### [Project Name 3](https://github.com/[username]/project3)
-**[Brief Description]**
-- [Key feature or technology used]
-- [Impact or result achieved]
-- **Tech Stack:** [Technologies used]
+### [Chargreen]([https://github.com/[username]/project1](https://github.com/rodrigorom2105/Chargreen-PWA))
+**[Full Stack Progressive Web App for the control of phone charging stations]**
+- [PWA]
+- [Improved user engagment reduced authentication-related issues]
+- **Tech Stack:** [React, Node.js + Express, MySQL, Oracle Cloud]
 
 ## 🎓 Education
 
