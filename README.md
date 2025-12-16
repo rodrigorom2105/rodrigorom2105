@@ -49,10 +49,10 @@ Computer Science College Student with 5 years of experience in Software Developm
 ## 🌟 Featured Projects
 
 ### [Chargreen]([https://github.com/[username]/project1](https://github.com/rodrigorom2105/Chargreen-PWA))
-**[Full Stack Progressive Web App for the control of phone charging stations]**
-- [PWA]
-- [Improved user engagment reduced authentication-related issues]
-- **Tech Stack:** [React, Node.js + Express, MySQL, Oracle Cloud]
+**Full Stack Progressive Web App for the control of phone charging stations**
+- PWA
+- Improved user engagment reduced authentication-related issues
+- **Tech Stack:** React, Node.js + Express, MySQL, Oracle Cloud
 
 ## 🎓 Education
 
