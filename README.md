@@ -60,41 +60,26 @@ Computer Science College Student with 5 years of experience in Software Developm
 **[University Name]** | [Graduation Year]
 - [Relevant coursework, honors, or achievements]
 
-## 📜 Certifications
-- [Certification Name] - [Issuing Organization] ([Year])
-- [Certification Name] - [Issuing Organization] ([Year])
-- [Certification Name] - [Issuing Organization] ([Year])
-
 ## 🏆 Achievements & Recognition
-- [Achievement or award]
-- [Achievement or award]
-- [Achievement or award]
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- Bronze Medal in Genius Olympiad 2023
+- Gold Medal in Infomatrix Jalisco
 
 ## 📫 How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[your-profile])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[your.email@example.com])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigo-romero21)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigorc2105@gmail.com)
+
+<!-- Alternative: Use Twitter badge styling if you prefer
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://[yourportfolio.com])
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/[yourhandle])
-<!-- Alternative: Use Twitter badge styling if you prefer
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/[yourhandle])
 -->
 
 ## 💡 Currently
 
-- 🔭 I'm currently working on [Current Project/Focus]
-- 🌱 I'm currently learning [Technologies/Skills]
-- 👯 I'm looking to collaborate on [Type of Projects]
-- 💬 Ask me about [Your Expertise Areas]
-- ⚡ Fun fact: [Interesting fact about you]
-
-## 📈 Profile Views
-
-![Visitor Count](https://profile-counter.glitch.me/[username]/count.svg)
+- 🔭 I'm currently working on a Full Stack Resumee AI Tailor
+- 🌱 I'm currently learning Next.js, AWS, Spring Boot
+- 👯 I'm looking to collaborate on Web Development and Data Science projects
 
 ---
 
@@ -102,6 +87,6 @@ Computer Science College Student with 5 years of experience in Software Developm
   
 **Open to new opportunities!** Feel free to reach out if you'd like to discuss potential collaborations or job opportunities.
 
-*Last Updated: [Date]*
+*Last Updated: 12-16-2025*
 
 </div>
