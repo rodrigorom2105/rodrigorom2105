@@ -7,27 +7,19 @@
 5. Delete this comment block when you're done customizing
 -->
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Rodrigo 👋
 
 ## 🚀 About Me
-[Your Professional Title] with [X] years of experience in [Your Field/Industry]. Passionate about [Your Interests/Specializations] and committed to building [Type of Solutions/Products]. Currently [Current Role/Activity].
-
-## 💼 Professional Experience
-
-### [Current Position] @ [Company Name]
-**[Start Date] - Present**
-- [Key responsibility or achievement]
-- [Key responsibility or achievement]
-- [Key responsibility or achievement]
-
-### [Previous Position] @ [Company Name]
-**[Start Date] - [End Date]**
-- [Key responsibility or achievement]
-- [Key responsibility or achievement]
+Computer Science College Student with 5 years of experience in Software Development. Passionate about Full Stack Development and Data Science, and committed to building reliable and complete solutions. Currently in second year of university.
 
 ## 🛠️ Technical Skills
 
 ### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
