@@ -56,9 +56,8 @@ Computer Science College Student with 5 years of experience in Software Developm
 
 ## 🎓 Education
 
-### [Degree Name] in [Field of Study]
-**[University Name]** | [Graduation Year]
-- [Relevant coursework, honors, or achievements]
+### B.S. in Computer Science
+**Instituto Tecnologico y de Estudios Superiores de Monterrey** | 2028
 
 ## 🏆 Achievements & Recognition
 - Bronze Medal in Genius Olympiad 2023
