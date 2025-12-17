@@ -10,7 +10,7 @@
 # Hi, I'm Rodrigo 👋
 
 ## 🚀 About Me
-Computer Science College Student with 5 years of experience in Software Development. Passionate about Full Stack Development and Data Science, and committed to building reliable and complete solutions. Currently in second year of university.
+Computer Science college student with 5 years of experience in Software Development. Passionate about Full Stack Development and Data Science, and committed to building reliable and complete solutions. Currently in second year of university.
 
 ## 🛠️ Technical Skills
 
